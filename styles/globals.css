@@ -1,9 +1,27 @@
+:root {
+  /* For weather colors */
+  --freezing: #e4f0fe;
+  --cold: #c3e0fb;
+  --warm: #cdf0eb;
+  --hot: #fff4da;
+  --burning: #fdd4d7;
+
+  /* For selected city */
+  --selected: #c3e0fb;
+
+  /* Text colors */
+  --primary: #0d1d35;
+  --secondary: #989eaa;
+
+  /* Other colors */
+  --grayish: #f2f2f2;
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: Inter, sans-serif;
 }
 
 a {
