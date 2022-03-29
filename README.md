@@ -17,4 +17,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 https://weather-app-6dxqu8779-hamrajk.vercel.app/
 
+## Search Functionality
+
+To search for a new city, type in the name and press Enter. If the city is recognized, it will be added to the list of cities, and can then be seleted to view it's weather data. If it is not recognized, it will not be added. You can not add the same city twice either.
+
+
+
+
 
