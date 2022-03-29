@@ -4,6 +4,7 @@ import styled, { css } from "styled-components";
 const CityWrapper = styled.div`
   display: flex;
   overflow: auto;
+  overflow-y: hidden;
   max-width: 95vw;
   margin-bottom: 2.3125rem;
 `;
