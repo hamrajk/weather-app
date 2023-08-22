@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Check out the live deployment (deployed with vercel)
 
-https://weather-app-6dxqu8779-hamrajk.vercel.app/
+https://weather-app-hamrajk.vercel.app/
 
 ## Search Functionality
 
